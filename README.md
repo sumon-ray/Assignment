@@ -50,7 +50,6 @@ The **Bicycle Store Application** is an intuitive e-commerce platform designed f
 
 #### 📊 Dashboard
 
-- **Admin Panel**: Manage users, products (CRUD), and orders.
 - **User Dashboard**: View order history, update profile & change password securely.
 
 ---
